@@ -13,7 +13,11 @@ public class CalculatorApplication {
 			int i = 0;
 		}catch(Exception e){
 		}
-		
+
+		try{
+			int j = 0;
+		}catch(Exception e){
+		}
 	}
 
 }
